@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "async": "^2.6.3",
+    "async": "^2.6.4",
     "gm": "^1.23.1",
     "imagemagick": "^0.1.3"
   },
